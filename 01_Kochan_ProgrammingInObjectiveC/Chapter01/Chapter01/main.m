@@ -54,7 +54,7 @@ int main(int argc, const char * argv[]) {
 
         NSLog(@"The answer is %i:", mySum);
 
-//06
+        //06
 
         int answer;
         int result;
