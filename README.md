@@ -50,3 +50,4 @@
 ## Благодарности
 Всем авторам книг и сообществу Objective-C
 
+#ObjectiveC #iOSDevelopment #ProgrammingBooks #CodingJourney #Xcode #UIKit #AppleWatch #LearnToCode
